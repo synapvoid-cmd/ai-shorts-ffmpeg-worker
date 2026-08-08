@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+.venv/
+venv/
+tmp/
+*.mp4
+*.mp3
+*.wav
+*.log
